@@ -15,11 +15,3 @@ Trang web bách khoa lưu trữ lore **Genshin Impact** (song ngữ **Việt –
 - **Bản đồ Chòm sao Liên kết Lore (58 Ngôi sao trên 3 vòng đồng tâm):** Biểu đồ sao tương tác ngay trên trang chủ thể hiện mạng lưới liên kết chéo giữa 20 nền văn minh và 38 hồ sơ lưu trữ, hỗ trợ lọc theo nhóm và xem trước hồ sơ.
 - **Giả thuyết (Theories):** Luôn được đóng khung tách biệt hoàn toàn khỏi nội dung **Canon**, có trích dẫn nguồn tham khảo.
 
-## Chạy trang web
-
-1. **Cách 1 (Mở trực tiếp):** Nhấp đúp vào file `index.html` để mở ngay trên trình duyệt.
-2. **Cách 2 (Local Server):**
-   ```powershell
-   python -m http.server 8000 --bind 127.0.0.1
-   ```
-   Sau đó truy cập `http://127.0.0.1:8000`.
